@@ -1,0 +1,4 @@
+  CodeBook
+- subject (integer, ranges from 1 to 30)
+- activity (string with 6 possible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+- 79 averaged signal measurements
